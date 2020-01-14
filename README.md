@@ -4,4 +4,5 @@ tkinter python project that displays n*rows and n*lines
 Run it through terminal with command:   
 $ python3 graphs.py [argument1 arugument2]
 
-There must be two integer arguments
+
+There must be two integer arguments. argument1 for rows, and argument2 for columns.
